@@ -1,4 +1,5 @@
 rundll32 sysdm.cpl,EditEnvironmentVariables
 test
+GOPAL
 test
 HARIGOPAl
